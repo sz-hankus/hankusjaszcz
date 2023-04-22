@@ -4,5 +4,4 @@
 
 layout: home
 ---
-
-# index.markdown
+This is a home page for the `hankusjaszcz` website
